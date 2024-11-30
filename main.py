@@ -1,9 +1,3 @@
-# https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
-
-# https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
-
-# lingaweather@123,twilio=?DY2b!.4e!8G5Wp,recovery=XSGY8APJ8UYH1ZH8F5UZM2CD, num=+15188568535, LCJYVN9Z96ACDK9GYZ2FZ4N8
-
 import requests
 from twilio.rest import Client
 import os
